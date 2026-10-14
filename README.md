@@ -1,6 +1,6 @@
 ## Hi there 👋
 # I'm zahra asadi
-## I'm 20 years old
+## and I'm 20 years old
 
 # 👩🏻 about me 
 * 👨🏻‍🎓 computer engineering
