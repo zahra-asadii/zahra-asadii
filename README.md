@@ -1,8 +1,11 @@
 ## Hi there 👋
 # I'm zahra asadi
----
+
 # 👩🏻 about me 
-* computer engineering 
+* 👨🏻‍🎓 computer engineering
+* 🐍 python developer
+* 💻 interested in computer hardware
+* ⚡ always learning and improving my skills
 
 
 <!--
