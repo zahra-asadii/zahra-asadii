@@ -13,12 +13,12 @@
 * sqlite
 * markdown
 
-# 👩🏻‍💻 Special Python Libraries
+## 👩🏻‍💻 Special Python Libraries
 * tkinter
 * sqlite 3
 * auto-py-to-exe
 
-# IDE
+## ⚙ IDE
 * vscode
 * spyder
 
