@@ -7,6 +7,22 @@
 * 💻 interested in computer hardware
 * ⚡ always learning and improving my skills
 
+# 🛠 my skills 
+## 💻 Programming Languages
+* python
+* sqlite
+* markdown
+
+# 👩🏻‍💻 Special Python Libraries
+* tkinter
+* sqlite 3
+* auto-py-to-exe
+
+# IDE
+* vscode
+* spyder
+
+
 
 <!--
 **zahra-asadii/zahra-asadii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
